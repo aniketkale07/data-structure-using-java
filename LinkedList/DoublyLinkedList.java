@@ -20,6 +20,7 @@ After Deleting Last Element     20 <-->  END
 public class DoublyLinkedList {
     private Node head;
     private Node tail;
+    @SuppressWarnings("unused")
     private int size;
 
     public DoublyLinkedList() {
@@ -33,6 +34,7 @@ public class DoublyLinkedList {
         Node prev;
         Node next;
 
+        @SuppressWarnings("unused")
         public Node() {
         }
 
@@ -43,6 +45,7 @@ public class DoublyLinkedList {
             this.next = null;
         }
 
+        @SuppressWarnings("unused")
         public Node(int value, Node prev, Node next) {
             this.value = value;
             this.prev = prev;
