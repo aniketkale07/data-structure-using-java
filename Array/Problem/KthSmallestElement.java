@@ -1,3 +1,4 @@
+package Problem;
 // Find the Kth element in array 
 // skip the duplicate Element 
 

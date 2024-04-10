@@ -1,3 +1,4 @@
+package Problem;
 //Find the duplicate element in array using function 
 // 1.Filter method in java 8
 // using hasmap to stored the element in array as key and no of occurance as the value
