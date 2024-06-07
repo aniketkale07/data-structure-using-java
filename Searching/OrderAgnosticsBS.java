@@ -2,6 +2,8 @@
 //  u have a no idea about is sorting type is ASC or DESC
 //At that time OrderAgnostics Will help 
 // to find the target
+//it will first compare first and last digit if 1st is smaller than last ascending order 
+// nor Descending order 
 package Searching;
 
 import java.util.Scanner;
